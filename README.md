@@ -1,0 +1,2 @@
+# sailorbot
+bot discord
